@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theultimaterage
-- 👀 I’m interested in ...
+- 👀 I’m interested in getting a job in Software Development and/or Cyber Security
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.theultimaterage.com
